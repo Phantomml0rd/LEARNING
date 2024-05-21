@@ -13,3 +13,18 @@ float cafe = 4.5;
   // os valore de copos e cafe são iguais, mas os endereços são diferentes a cada execução do programa.
 
 }
+## SAIDA DO PROGRAMA 01
+conteudo de total = 0x7ffda58d5f3c
+conteudo apontado = 6
+emdereço total =6
+conteudo de ptr = 0x7ffda58d5f3c
+agora totais vale = 7
+
+## SAIDA DO PROGRAMA 02
+conteudo de total = 0x7ffda58d5f3c
+conteudo apontado = 6
+emdereço total =6
+conteudo de ptr = 0x7ffda58d5f3c
+agora totais vale = 7
+
+
