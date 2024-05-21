@@ -14,3 +14,10 @@ int main (){
   cout << "agora totais vale = "<< total << endl;
   return 0;
 }
+## SAIDA DO PROGRAMA
+conteudo de total = 0x7ffda58d5f3c
+conteudo apontado = 6
+emdereço total =6
+conteudo de ptr = 0x7ffda58d5f3c
+agora totais vale = 7
+
